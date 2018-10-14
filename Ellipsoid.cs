@@ -259,4 +259,4 @@ namespace ProjNet.CoordinateSystems
                     e.AxisUnit.EqualParams(this.AxisUnit));
         }
     }
-}
+} // Anthony Contribute test
